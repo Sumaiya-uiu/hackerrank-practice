@@ -15,9 +15,9 @@ if __name__ == '__main__':
 
     s = input()
 
-    # result = solve(s)
+    result = solve(s)
 
-    print(result)
+    # print(result)
 
     fptr.write(result + '\n')
 
